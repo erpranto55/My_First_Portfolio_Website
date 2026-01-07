@@ -57,7 +57,7 @@ header {
     background-color: #FFF8F3;
     padding-top: 50px;
     background: url(../images/developer.png), url(../images/header_bg.png), #FFF8F3;
-    background-position: top left, bottom right;
+    background-position: 23px 38px, bottom right;
     background-repeat: no-repeat;
 }
 
@@ -81,6 +81,17 @@ nav .menu a {
     font-size: 20px;
     color: #474747;
     text-decoration: none;
+}
+
+#contract{
+    border: 2px solid #FD6E0A;
+    background: none;
+    border-radius: 5px;
+    padding: 19px 23px 18px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FD6E0A;
+    cursor: pointer;
 }
 
 #banner {
