@@ -1,0 +1,20 @@
+/* Web First design  */
+
+/* Laptop device */
+@media screen and (max-width:1200px) {}
+
+
+/* Tablet devices */
+@media screen and (max-width:992px) {}
+
+/* Big mobile devices */
+@media screen and (max-width:768px) {}
+
+/* Mobile devices */
+@media screen and (max-width:576px) {}
+
+
+/* Device specific media query */
+@media screen and (min-width:576px) and (max-width:768px) {
+    /* This is only for Mobile talet devices */
+}
